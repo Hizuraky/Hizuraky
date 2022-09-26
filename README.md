@@ -1,29 +1,4 @@
-北海道生まれ、北海道育ちの道産子男子。
 
-金融機関にて営業職経験後、イベントの営業・人材派遣の営業を経験。
-
-エンジニアになるためプログラミングスクールと職業訓練校へ通学。
-
-現在は受託開発の会社に従事。
-
----
-
-*略歴*
-- 2003年~
-  - 9歳～大学卒業時(22歳)までアルペンスキーを競技として取り組む。
-
-- 2012年~ (大学進学)
-  - 大学では運動学や地域経済を主に勉強。<br />
-  - 在学中に4年間、スキーのインターカレッジにて部として全国総合4連覇達成。<br />
-  - 個人として北海道選手権優勝や、アジア大会6位入賞等。<br />
-
-- 2016年~ (社会人)
-  1. 2016~ 金融機関にて営業職として従事
-  2. 2018~ イベント会社にて営業・運営
-  3. 2020~ 人材派遣会社にて営業職として従事
-      - 勤務しながらプログラミングを学習
-
-- 2020年~ 現在
-  - 会社を退職し、本格的にスクールと独学にてプログラミングを4ヶ月間学習した後に受託開発の会社へ勤務
-
-エンジニアとしてのスキルセットは[詳細]()をご覧くださいませ！！
+[![](https://raw.githubusercontent.com/Hizuraky/Hizuraky/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Hizuraky/Hizuraky/main/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Hizuraky/Hizuraky/main/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Hizuraky/Hizuraky/main/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Hizuraky/Hizuraky/main/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
