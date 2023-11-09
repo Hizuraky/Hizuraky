@@ -6,6 +6,8 @@ Hizuraky
 
 ### [Hizuraky-Profile](https://hizuraky.tk/history/)
 
+※closed web
+
 <img src="https://hiz-pictures.s3.ap-northeast-1.amazonaws.com/profile.png" />
 
 [![VSCode](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hizuraky/Hizuraky-profile)
